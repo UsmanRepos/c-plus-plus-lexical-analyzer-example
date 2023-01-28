@@ -1,0 +1,10 @@
+// This is Single Line Comment. *)
+int a     ,   2222b,c;
+a = 10;
+// This is Single Line Comment. ****)
+b = 15;
+/*This is Multi Line Comment*/
+c = a*b;
+string str = "Usman ASlam";
+char ch = '*';
+/*This is Multi Line Comment*/
